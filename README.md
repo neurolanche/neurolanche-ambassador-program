@@ -379,7 +379,7 @@ Ambassador
 | ART | The Artist: This can be infographic, animated logo, sticker packs, music, movie, NFT etc. The creativity is your limit. Bonus will be given for outstanding work which will be accepted for official use.  | 1 per month  | Quality  | 10 |
 
 > For any other types of contribution that is not listed above, please reach out to the team.
-#### Please submit your contribution by creating an issue on this repository latest by the 5th day of the following month. Any late submission will not be accepted.
+#### Please submit your contribution by creating an issue on this repository latest by the 15th day of the following month. Any late submission will not be accepted.
 _Report Format Example_
 
 ```
